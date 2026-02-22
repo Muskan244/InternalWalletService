@@ -24,7 +24,6 @@ import com.service.internalWallet.repository.LedgerEntryRepository;
 import com.service.internalWallet.repository.TransactionRepository;
 import com.service.internalWallet.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
-import org.jspecify.annotations.Nullable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
